@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "845453395998",
+    "project_id": "taskwin-ca38c",
+    "storage_bucket": "taskwin-ca38c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845453395998:android:edc7b4dcd46272a4d8c60f",
+        "android_client_info": {
+          "package_name": "com.task.taskwin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCpro53_D-NTvNXzY0PhMmA_QLtdXxXEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
